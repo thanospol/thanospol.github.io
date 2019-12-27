@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. T. H. Reid | Thanos Polimeridis</title>
+    <link>https://github.com/thanospol/thanospol.github.io/authors/m.-t.-h.-reid/</link>
+      <atom:link href="https://github.com/thanospol/thanospol.github.io/authors/m.-t.-h.-reid/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. T. H. Reid</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Polimeridis2020</copyright><lastBuildDate>Fri, 01 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://github.com/thanospol/thanospol.github.io/img/icon-192.png</url>
+      <title>M. T. H. Reid</title>
+      <link>https://github.com/thanospol/thanospol.github.io/authors/m.-t.-h.-reid/</link>
+    </image>
+    
+    <item>
+      <title>Fundamental limits to the optical response of lossy media</title>
+      <link>https://github.com/thanospol/thanospol.github.io/publication/miller2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://github.com/thanospol/thanospol.github.io/publication/miller2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fluctuating volume-current formulation of electromagnetic fluctuations in inhomogeneous media: incandescence and luminescence in arbitrary geometries</title>
+      <link>https://github.com/thanospol/thanospol.github.io/publication/polimeridis2015/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://github.com/thanospol/thanospol.github.io/publication/polimeridis2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,16 +1,222 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <title>Thanos Polimeridis</title>
+    <link>https://github.com/thanospol/thanospol.github.io/</link>
+      <atom:link href="https://github.com/thanospol/thanospol.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thanos Polimeridis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Polimeridis2020</copyright><lastBuildDate>Tue, 24 Dec 2019 14:46:20 -0800</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
-      <title>Academic</title>
-      <link>/</link>
+      <url>https://github.com/thanospol/thanospol.github.io/img/icon-192.png</url>
+      <title>Thanos Polimeridis</title>
+      <link>https://github.com/thanospol/thanospol.github.io/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>https://github.com/thanospol/thanospol.github.io/legacy/slider/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://github.com/thanospol/thanospol.github.io/legacy/slider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://github.com/thanospol/thanospol.github.io/legacy/hero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://github.com/thanospol/thanospol.github.io/legacy/hero/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Build &lt;strong&gt;Anything&lt;/strong&gt; with Widgets&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;text-shadow: none;&#34;&gt;&lt;a class=&#34;github-button&#34; href=&#34;https://github.com/gcushen/hugo-academic&#34; data-icon=&#34;octicon-star&#34; data-size=&#34;large&#34; data-show-count=&#34;true&#34; aria-label=&#34;Star this on GitHub&#34;&gt;Star&lt;/a&gt;&lt;script async defer src=&#34;https://buttons.github.io/buttons.js&#34;&gt;&lt;/script&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Academic Kickstart</title>
+      <link>https://github.com/thanospol/thanospol.github.io/legacy/demo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://github.com/thanospol/thanospol.github.io/legacy/demo/</guid>
+      <description>&lt;p&gt;Welcome to the &lt;strong&gt;Academic Kickstart&lt;/strong&gt; template!&lt;/p&gt;
+&lt;p&gt;Follow our &lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34;&gt;Getting Started&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/docs/widgets/&#34;&gt;Page Builder&lt;/a&gt; guides to easily personalize the template and then &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/&#34;&gt;add your own content&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For inspiration, check out &lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#demo-content&#34;&gt;the Markdown files&lt;/a&gt; which power the &lt;a href=&#34;https://academic-demo.netlify.com/&#34;&gt;personal demo&lt;/a&gt;. The easiest way to publish your new site to the internet is with &lt;a href=&#34;https://sourcethemes.com/academic/docs/deployment/&#34;&gt;Netlify&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34;&gt;View the documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://discuss.gohugo.io/&#34;&gt;Ask a question&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34;&gt;Request a feature or report a bug&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Updating? View the &lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Support development of Academic:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://paypal.me/cushen&#34;&gt;Donate a coffee&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.patreon.com/cushen&#34;&gt;Become a backer on Patreon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34;&gt;Decorate your laptop or journal with an Academic sticker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://academic.threadless.com/&#34;&gt;Wear the T-shirt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;This homepage section is an example of adding &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;elements&lt;/a&gt; to the &lt;a href=&#34;https://sourcethemes.com/academic/docs/widgets/&#34;&gt;&lt;em&gt;Blank&lt;/em&gt; widget&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Backgrounds can be applied to any section. Here, the &lt;em&gt;background&lt;/em&gt; option is set give a &lt;em&gt;color gradient&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;To remove this section, delete &lt;code&gt;content/home/demo.md&lt;/code&gt;.&lt;/strong&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://github.com/thanospol/thanospol.github.io/legacy/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://github.com/thanospol/thanospol.github.io/legacy/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accomplish&amp;shy;ments</title>
+      <link>https://github.com/thanospol/thanospol.github.io/legacy/accomplishments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://github.com/thanospol/thanospol.github.io/legacy/accomplishments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patents</title>
+      <link>https://github.com/thanospol/thanospol.github.io/legacy/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://github.com/thanospol/thanospol.github.io/legacy/posts/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Tensor Field Mapping&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;US Patent US10222441B2, Filed Apr 2016, Patent Granted&lt;br&gt;
+ &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rapid determination of a relaxation time&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;US Patent US10359486B2, Filed Apr 2016, Patent Granted&lt;br&gt;
+ &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Noninvasive determination of electrical properties of tissues and materials using magnetic resonance measurements&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;US Patent US20170303813A1, Filed Apr 2016, Patent Pending&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://github.com/thanospol/thanospol.github.io/legacy/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://github.com/thanospol/thanospol.github.io/legacy/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meet the Team</title>
+      <link>https://github.com/thanospol/thanospol.github.io/legacy/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://github.com/thanospol/thanospol.github.io/legacy/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://github.com/thanospol/thanospol.github.io/legacy/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://github.com/thanospol/thanospol.github.io/legacy/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Featured Publications</title>
+      <link>https://github.com/thanospol/thanospol.github.io/legacy/featured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://github.com/thanospol/thanospol.github.io/legacy/featured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Popular Topics</title>
+      <link>https://github.com/thanospol/thanospol.github.io/legacy/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://github.com/thanospol/thanospol.github.io/legacy/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DEMCEM</title>
+      <link>https://github.com/thanospol/thanospol.github.io/project/demcem/</link>
+      <pubDate>Tue, 24 Dec 2019 14:46:20 -0800</pubDate>
+      <guid>https://github.com/thanospol/thanospol.github.io/project/demcem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MARIE</title>
+      <link>https://github.com/thanospol/thanospol.github.io/project/marie/</link>
+      <pubDate>Tue, 24 Dec 2019 14:46:20 -0800</pubDate>
+      <guid>https://github.com/thanospol/thanospol.github.io/project/marie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noninvasive estimation of electrical properties from magnetic resonance measurements via global Maxwell tomography and match regularization</title>
+      <link>https://github.com/thanospol/thanospol.github.io/publication/serralles2020/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://github.com/thanospol/thanospol.github.io/publication/serralles2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The ultimate signal-to-noise ratio in realistic body models</title>
+      <link>https://github.com/thanospol/thanospol.github.io/publication/guerin2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://github.com/thanospol/thanospol.github.io/publication/guerin2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast electromagnetic analysis of MRI transmit RF coils based on accelerated integral equation methods</title>
+      <link>https://github.com/thanospol/thanospol.github.io/publication/villena2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://github.com/thanospol/thanospol.github.io/publication/villena2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fundamental limits to the optical response of lossy media</title>
+      <link>https://github.com/thanospol/thanospol.github.io/publication/miller2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://github.com/thanospol/thanospol.github.io/publication/miller2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fluctuating volume-current formulation of electromagnetic fluctuations in inhomogeneous media: incandescence and luminescence in arbitrary geometries</title>
+      <link>https://github.com/thanospol/thanospol.github.io/publication/polimeridis2015/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://github.com/thanospol/thanospol.github.io/publication/polimeridis2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stable FFT-JVIE solvers for fast analysis of highly inhomogeneous dielectric objects</title>
+      <link>https://github.com/thanospol/thanospol.github.io/publication/polimeridis2014/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://github.com/thanospol/thanospol.github.io/publication/polimeridis2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIRECTFN: Fully numerical algorithms for high precision computation of singular integrals in Galerkin SIE methods</title>
+      <link>https://github.com/thanospol/thanospol.github.io/publication/polimeridis2013/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://github.com/thanospol/thanospol.github.io/publication/polimeridis2013/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

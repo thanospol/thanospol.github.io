@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Y. Eryaman | Thanos Polimeridis</title>
+    <link>https://github.com/thanospol/thanospol.github.io/authors/y.-eryaman/</link>
+      <atom:link href="https://github.com/thanospol/thanospol.github.io/authors/y.-eryaman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Y. Eryaman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Polimeridis2020</copyright><lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://github.com/thanospol/thanospol.github.io/img/icon-192.png</url>
+      <title>Y. Eryaman</title>
+      <link>https://github.com/thanospol/thanospol.github.io/authors/y.-eryaman/</link>
+    </image>
+    
+    <item>
+      <title>Fast electromagnetic analysis of MRI transmit RF coils based on accelerated integral equation methods</title>
+      <link>https://github.com/thanospol/thanospol.github.io/publication/villena2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://github.com/thanospol/thanospol.github.io/publication/villena2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

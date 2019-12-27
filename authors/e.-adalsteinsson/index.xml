@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. Adalsteinsson | Thanos Polimeridis</title>
+    <link>https://github.com/thanospol/thanospol.github.io/authors/e.-adalsteinsson/</link>
+      <atom:link href="https://github.com/thanospol/thanospol.github.io/authors/e.-adalsteinsson/index.xml" rel="self" type="application/rss+xml" />
+    <description>E. Adalsteinsson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Polimeridis2020</copyright><lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://github.com/thanospol/thanospol.github.io/img/icon-192.png</url>
+      <title>E. Adalsteinsson</title>
+      <link>https://github.com/thanospol/thanospol.github.io/authors/e.-adalsteinsson/</link>
+    </image>
+    
+    <item>
+      <title>The ultimate signal-to-noise ratio in realistic body models</title>
+      <link>https://github.com/thanospol/thanospol.github.io/publication/guerin2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://github.com/thanospol/thanospol.github.io/publication/guerin2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast electromagnetic analysis of MRI transmit RF coils based on accelerated integral equation methods</title>
+      <link>https://github.com/thanospol/thanospol.github.io/publication/villena2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://github.com/thanospol/thanospol.github.io/publication/villena2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Academic</title>
-    <link>/tags/</link>
-      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <title>Tags | Thanos Polimeridis</title>
+    <link>https://github.com/thanospol/thanospol.github.io/tags/</link>
+      <atom:link href="https://github.com/thanospol/thanospol.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Polimeridis2020</copyright><lastBuildDate>Tue, 24 Dec 2019 14:46:20 -0800</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://github.com/thanospol/thanospol.github.io/img/icon-192.png</url>
       <title>Tags</title>
-      <link>/tags/</link>
+      <link>https://github.com/thanospol/thanospol.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>EM</title>
+      <link>https://github.com/thanospol/thanospol.github.io/tags/em/</link>
+      <pubDate>Tue, 24 Dec 2019 14:46:20 -0800</pubDate>
+      <guid>https://github.com/thanospol/thanospol.github.io/tags/em/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MRI</title>
+      <link>https://github.com/thanospol/thanospol.github.io/tags/mri/</link>
+      <pubDate>Tue, 24 Dec 2019 14:46:20 -0800</pubDate>
+      <guid>https://github.com/thanospol/thanospol.github.io/tags/mri/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
