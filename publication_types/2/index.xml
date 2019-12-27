@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Thanos Polimeridis</title>
-    <link>https://github.com/thanospol/thanospol.github.io/publication_types/2/</link>
-      <atom:link href="https://github.com/thanospol/thanospol.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thanospol.github.io/publication_types/2/</link>
+      <atom:link href="https://thanospol.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Polimeridis2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://github.com/thanospol/thanospol.github.io/img/icon-192.png</url>
+      <url>https://thanospol.github.io/img/icon-192.png</url>
       <title>2</title>
-      <link>https://github.com/thanospol/thanospol.github.io/publication_types/2/</link>
+      <link>https://thanospol.github.io/publication_types/2/</link>
     </image>
     
     <item>
       <title>Noninvasive estimation of electrical properties from magnetic resonance measurements via global Maxwell tomography and match regularization</title>
-      <link>https://github.com/thanospol/thanospol.github.io/publication/serralles2020/</link>
+      <link>https://thanospol.github.io/publication/serralles2020/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://github.com/thanospol/thanospol.github.io/publication/serralles2020/</guid>
+      <guid>https://thanospol.github.io/publication/serralles2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The ultimate signal-to-noise ratio in realistic body models</title>
-      <link>https://github.com/thanospol/thanospol.github.io/publication/guerin2017/</link>
+      <link>https://thanospol.github.io/publication/guerin2017/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://github.com/thanospol/thanospol.github.io/publication/guerin2017/</guid>
+      <guid>https://thanospol.github.io/publication/guerin2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fast electromagnetic analysis of MRI transmit RF coils based on accelerated integral equation methods</title>
-      <link>https://github.com/thanospol/thanospol.github.io/publication/villena2016/</link>
+      <link>https://thanospol.github.io/publication/villena2016/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://github.com/thanospol/thanospol.github.io/publication/villena2016/</guid>
+      <guid>https://thanospol.github.io/publication/villena2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fundamental limits to the optical response of lossy media</title>
-      <link>https://github.com/thanospol/thanospol.github.io/publication/miller2016/</link>
+      <link>https://thanospol.github.io/publication/miller2016/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://github.com/thanospol/thanospol.github.io/publication/miller2016/</guid>
+      <guid>https://thanospol.github.io/publication/miller2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fluctuating volume-current formulation of electromagnetic fluctuations in inhomogeneous media: incandescence and luminescence in arbitrary geometries</title>
-      <link>https://github.com/thanospol/thanospol.github.io/publication/polimeridis2015/</link>
+      <link>https://thanospol.github.io/publication/polimeridis2015/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://github.com/thanospol/thanospol.github.io/publication/polimeridis2015/</guid>
+      <guid>https://thanospol.github.io/publication/polimeridis2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stable FFT-JVIE solvers for fast analysis of highly inhomogeneous dielectric objects</title>
-      <link>https://github.com/thanospol/thanospol.github.io/publication/polimeridis2014/</link>
+      <link>https://thanospol.github.io/publication/polimeridis2014/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://github.com/thanospol/thanospol.github.io/publication/polimeridis2014/</guid>
+      <guid>https://thanospol.github.io/publication/polimeridis2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DIRECTFN: Fully numerical algorithms for high precision computation of singular integrals in Galerkin SIE methods</title>
-      <link>https://github.com/thanospol/thanospol.github.io/publication/polimeridis2013/</link>
+      <link>https://thanospol.github.io/publication/polimeridis2013/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://github.com/thanospol/thanospol.github.io/publication/polimeridis2013/</guid>
+      <guid>https://thanospol.github.io/publication/polimeridis2013/</guid>
       <description></description>
     </item>
     

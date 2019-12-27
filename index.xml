@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thanos Polimeridis</title>
-    <link>https://github.com/thanospol/thanospol.github.io/</link>
-      <atom:link href="https://github.com/thanospol/thanospol.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thanospol.github.io/</link>
+      <atom:link href="https://thanospol.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Thanos Polimeridis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Polimeridis2020</copyright><lastBuildDate>Tue, 24 Dec 2019 14:46:20 -0800</lastBuildDate>
     <image>
-      <url>https://github.com/thanospol/thanospol.github.io/img/icon-192.png</url>
+      <url>https://thanospol.github.io/img/icon-192.png</url>
       <title>Thanos Polimeridis</title>
-      <link>https://github.com/thanospol/thanospol.github.io/</link>
+      <link>https://thanospol.github.io/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://github.com/thanospol/thanospol.github.io/legacy/slider/</link>
+      <link>https://thanospol.github.io/legacy/slider/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/thanospol/thanospol.github.io/legacy/slider/</guid>
+      <guid>https://thanospol.github.io/legacy/slider/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>https://github.com/thanospol/thanospol.github.io/legacy/hero/</link>
+      <link>https://thanospol.github.io/legacy/hero/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/thanospol/thanospol.github.io/legacy/hero/</guid>
+      <guid>https://thanospol.github.io/legacy/hero/</guid>
       <description>&lt;p&gt;&lt;strong&gt;The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Build &lt;strong&gt;Anything&lt;/strong&gt; with Widgets&lt;/p&gt;
 &lt;p&gt;&lt;span style=&#34;text-shadow: none;&#34;&gt;&lt;a class=&#34;github-button&#34; href=&#34;https://github.com/gcushen/hugo-academic&#34; data-icon=&#34;octicon-star&#34; data-size=&#34;large&#34; data-show-count=&#34;true&#34; aria-label=&#34;Star this on GitHub&#34;&gt;Star&lt;/a&gt;&lt;script async defer src=&#34;https://buttons.github.io/buttons.js&#34;&gt;&lt;/script&gt;&lt;/span&gt;&lt;/p&gt;
@@ -33,9 +33,9 @@
     
     <item>
       <title>Academic Kickstart</title>
-      <link>https://github.com/thanospol/thanospol.github.io/legacy/demo/</link>
+      <link>https://thanospol.github.io/legacy/demo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/thanospol/thanospol.github.io/legacy/demo/</guid>
+      <guid>https://thanospol.github.io/legacy/demo/</guid>
       <description>&lt;p&gt;Welcome to the &lt;strong&gt;Academic Kickstart&lt;/strong&gt; template!&lt;/p&gt;
 &lt;p&gt;Follow our &lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34;&gt;Getting Started&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/docs/widgets/&#34;&gt;Page Builder&lt;/a&gt; guides to easily personalize the template and then &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/&#34;&gt;add your own content&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;For inspiration, check out &lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#demo-content&#34;&gt;the Markdown files&lt;/a&gt; which power the &lt;a href=&#34;https://academic-demo.netlify.com/&#34;&gt;personal demo&lt;/a&gt;. The easiest way to publish your new site to the internet is with &lt;a href=&#34;https://sourcethemes.com/academic/docs/deployment/&#34;&gt;Netlify&lt;/a&gt;.&lt;/p&gt;
@@ -65,25 +65,25 @@
     
     <item>
       <title>Skills</title>
-      <link>https://github.com/thanospol/thanospol.github.io/legacy/skills/</link>
+      <link>https://thanospol.github.io/legacy/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/thanospol/thanospol.github.io/legacy/skills/</guid>
+      <guid>https://thanospol.github.io/legacy/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accomplish&amp;shy;ments</title>
-      <link>https://github.com/thanospol/thanospol.github.io/legacy/accomplishments/</link>
+      <link>https://thanospol.github.io/legacy/accomplishments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/thanospol/thanospol.github.io/legacy/accomplishments/</guid>
+      <guid>https://thanospol.github.io/legacy/accomplishments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Patents</title>
-      <link>https://github.com/thanospol/thanospol.github.io/legacy/posts/</link>
+      <link>https://thanospol.github.io/legacy/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/thanospol/thanospol.github.io/legacy/posts/</guid>
+      <guid>https://thanospol.github.io/legacy/posts/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Tensor Field Mapping&lt;/strong&gt;
 &lt;ul&gt;
@@ -108,113 +108,113 @@
     
     <item>
       <title>Projects</title>
-      <link>https://github.com/thanospol/thanospol.github.io/legacy/projects/</link>
+      <link>https://thanospol.github.io/legacy/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/thanospol/thanospol.github.io/legacy/projects/</guid>
+      <guid>https://thanospol.github.io/legacy/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Meet the Team</title>
-      <link>https://github.com/thanospol/thanospol.github.io/legacy/people/</link>
+      <link>https://thanospol.github.io/legacy/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/thanospol/thanospol.github.io/legacy/people/</guid>
+      <guid>https://thanospol.github.io/legacy/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://github.com/thanospol/thanospol.github.io/legacy/talks/</link>
+      <link>https://thanospol.github.io/legacy/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/thanospol/thanospol.github.io/legacy/talks/</guid>
+      <guid>https://thanospol.github.io/legacy/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Featured Publications</title>
-      <link>https://github.com/thanospol/thanospol.github.io/legacy/featured/</link>
+      <link>https://thanospol.github.io/legacy/featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/thanospol/thanospol.github.io/legacy/featured/</guid>
+      <guid>https://thanospol.github.io/legacy/featured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Popular Topics</title>
-      <link>https://github.com/thanospol/thanospol.github.io/legacy/tags/</link>
+      <link>https://thanospol.github.io/legacy/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/thanospol/thanospol.github.io/legacy/tags/</guid>
+      <guid>https://thanospol.github.io/legacy/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DEMCEM</title>
-      <link>https://github.com/thanospol/thanospol.github.io/project/demcem/</link>
+      <link>https://thanospol.github.io/project/demcem/</link>
       <pubDate>Tue, 24 Dec 2019 14:46:20 -0800</pubDate>
-      <guid>https://github.com/thanospol/thanospol.github.io/project/demcem/</guid>
+      <guid>https://thanospol.github.io/project/demcem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MARIE</title>
-      <link>https://github.com/thanospol/thanospol.github.io/project/marie/</link>
+      <link>https://thanospol.github.io/project/marie/</link>
       <pubDate>Tue, 24 Dec 2019 14:46:20 -0800</pubDate>
-      <guid>https://github.com/thanospol/thanospol.github.io/project/marie/</guid>
+      <guid>https://thanospol.github.io/project/marie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Noninvasive estimation of electrical properties from magnetic resonance measurements via global Maxwell tomography and match regularization</title>
-      <link>https://github.com/thanospol/thanospol.github.io/publication/serralles2020/</link>
+      <link>https://thanospol.github.io/publication/serralles2020/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://github.com/thanospol/thanospol.github.io/publication/serralles2020/</guid>
+      <guid>https://thanospol.github.io/publication/serralles2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The ultimate signal-to-noise ratio in realistic body models</title>
-      <link>https://github.com/thanospol/thanospol.github.io/publication/guerin2017/</link>
+      <link>https://thanospol.github.io/publication/guerin2017/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://github.com/thanospol/thanospol.github.io/publication/guerin2017/</guid>
+      <guid>https://thanospol.github.io/publication/guerin2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fast electromagnetic analysis of MRI transmit RF coils based on accelerated integral equation methods</title>
-      <link>https://github.com/thanospol/thanospol.github.io/publication/villena2016/</link>
+      <link>https://thanospol.github.io/publication/villena2016/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://github.com/thanospol/thanospol.github.io/publication/villena2016/</guid>
+      <guid>https://thanospol.github.io/publication/villena2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fundamental limits to the optical response of lossy media</title>
-      <link>https://github.com/thanospol/thanospol.github.io/publication/miller2016/</link>
+      <link>https://thanospol.github.io/publication/miller2016/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://github.com/thanospol/thanospol.github.io/publication/miller2016/</guid>
+      <guid>https://thanospol.github.io/publication/miller2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fluctuating volume-current formulation of electromagnetic fluctuations in inhomogeneous media: incandescence and luminescence in arbitrary geometries</title>
-      <link>https://github.com/thanospol/thanospol.github.io/publication/polimeridis2015/</link>
+      <link>https://thanospol.github.io/publication/polimeridis2015/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://github.com/thanospol/thanospol.github.io/publication/polimeridis2015/</guid>
+      <guid>https://thanospol.github.io/publication/polimeridis2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stable FFT-JVIE solvers for fast analysis of highly inhomogeneous dielectric objects</title>
-      <link>https://github.com/thanospol/thanospol.github.io/publication/polimeridis2014/</link>
+      <link>https://thanospol.github.io/publication/polimeridis2014/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://github.com/thanospol/thanospol.github.io/publication/polimeridis2014/</guid>
+      <guid>https://thanospol.github.io/publication/polimeridis2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DIRECTFN: Fully numerical algorithms for high precision computation of singular integrals in Galerkin SIE methods</title>
-      <link>https://github.com/thanospol/thanospol.github.io/publication/polimeridis2013/</link>
+      <link>https://thanospol.github.io/publication/polimeridis2013/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://github.com/thanospol/thanospol.github.io/publication/polimeridis2013/</guid>
+      <guid>https://thanospol.github.io/publication/polimeridis2013/</guid>
       <description></description>
     </item>
     

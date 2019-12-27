@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MRI | Thanos Polimeridis</title>
-    <link>https://github.com/thanospol/thanospol.github.io/tags/mri/</link>
-      <atom:link href="https://github.com/thanospol/thanospol.github.io/tags/mri/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thanospol.github.io/tags/mri/</link>
+      <atom:link href="https://thanospol.github.io/tags/mri/index.xml" rel="self" type="application/rss+xml" />
     <description>MRI</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Polimeridis2020</copyright><lastBuildDate>Tue, 24 Dec 2019 14:46:20 -0800</lastBuildDate>
     <image>
-      <url>https://github.com/thanospol/thanospol.github.io/img/icon-192.png</url>
+      <url>https://thanospol.github.io/img/icon-192.png</url>
       <title>MRI</title>
-      <link>https://github.com/thanospol/thanospol.github.io/tags/mri/</link>
+      <link>https://thanospol.github.io/tags/mri/</link>
     </image>
     
     <item>
       <title>MARIE</title>
-      <link>https://github.com/thanospol/thanospol.github.io/project/marie/</link>
+      <link>https://thanospol.github.io/project/marie/</link>
       <pubDate>Tue, 24 Dec 2019 14:46:20 -0800</pubDate>
-      <guid>https://github.com/thanospol/thanospol.github.io/project/marie/</guid>
+      <guid>https://thanospol.github.io/project/marie/</guid>
       <description></description>
     </item>
     

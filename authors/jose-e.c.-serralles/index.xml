@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jose E.C. Serralles | Thanos Polimeridis</title>
-    <link>https://github.com/thanospol/thanospol.github.io/authors/jose-e.c.-serralles/</link>
-      <atom:link href="https://github.com/thanospol/thanospol.github.io/authors/jose-e.c.-serralles/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thanospol.github.io/authors/jose-e.c.-serralles/</link>
+      <atom:link href="https://thanospol.github.io/authors/jose-e.c.-serralles/index.xml" rel="self" type="application/rss+xml" />
     <description>Jose E.C. Serralles</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Polimeridis2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://github.com/thanospol/thanospol.github.io/img/icon-192.png</url>
+      <url>https://thanospol.github.io/img/icon-192.png</url>
       <title>Jose E.C. Serralles</title>
-      <link>https://github.com/thanospol/thanospol.github.io/authors/jose-e.c.-serralles/</link>
+      <link>https://thanospol.github.io/authors/jose-e.c.-serralles/</link>
     </image>
     
     <item>
       <title>Noninvasive estimation of electrical properties from magnetic resonance measurements via global Maxwell tomography and match regularization</title>
-      <link>https://github.com/thanospol/thanospol.github.io/publication/serralles2020/</link>
+      <link>https://thanospol.github.io/publication/serralles2020/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://github.com/thanospol/thanospol.github.io/publication/serralles2020/</guid>
+      <guid>https://thanospol.github.io/publication/serralles2020/</guid>
       <description></description>
     </item>
     

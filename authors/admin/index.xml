@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thanos Polimeridis</title>
-    <link>https://github.com/thanospol/thanospol.github.io/authors/admin/</link>
-      <atom:link href="https://github.com/thanospol/thanospol.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://thanospol.github.io/authors/admin/</link>
+      <atom:link href="https://thanospol.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Thanos Polimeridis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Polimeridis2020</copyright>
     <image>
-      <url>https://github.com/thanospol/thanospol.github.io/img/icon-192.png</url>
+      <url>https://thanospol.github.io/img/icon-192.png</url>
       <title>Thanos Polimeridis</title>
-      <link>https://github.com/thanospol/thanospol.github.io/authors/admin/</link>
+      <link>https://thanospol.github.io/authors/admin/</link>
     </image>
     
   </channel>
