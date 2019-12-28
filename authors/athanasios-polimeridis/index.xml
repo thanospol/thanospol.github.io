@@ -13,11 +13,57 @@
     </image>
     
     <item>
+      <title>DEMCEM</title>
+      <link>https://thanospol.github.io/project/demcem/</link>
+      <pubDate>Tue, 24 Dec 2019 14:46:20 -0800</pubDate>
+      <guid>https://thanospol.github.io/project/demcem/</guid>
+      <description>&lt;p&gt;Semi-analytical algorithms for the evaluation of singular integrals arising in Galerkin EM surface integral equation formulations over planar triangular tessellations (Matlab and C codes).
+&lt;a href=&#34;https://github.com/thanospol/DEMCEM&#34;&gt;Source code&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DIRECTFN</title>
+      <link>https://thanospol.github.io/project/directfn/</link>
+      <pubDate>Tue, 24 Dec 2019 14:46:20 -0800</pubDate>
+      <guid>https://thanospol.github.io/project/directfn/</guid>
+      <description>&lt;p&gt;DIRECTFN package is free software for the accurate and efficient evaluation of 4-D singular integrals arising from Galerkin MoM surface integral equation formulations over conforming triangular or quadrilateral meshes. The fully-numerical algorithms of DIRECTFN are suitable for the following applications:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Weakly and strongly singular kernels&lt;/li&gt;
+&lt;li&gt;Planar and curvilinear elements&lt;/li&gt;
+&lt;li&gt;Basis/testing functions of arbitrary order&lt;/li&gt;
+&lt;li&gt;Problem-specific Green&#39;s functions (e.g. expressed in spectral integral form)&lt;/li&gt;
+&lt;li&gt;From zero frequency to frequencies beyond microwaves&lt;/li&gt;
+&lt;li&gt;Spectral convergence to machine precision&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/thanospol/DIRECTFN&#34;&gt;Source code&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FVC</title>
+      <link>https://thanospol.github.io/project/fvc/</link>
+      <pubDate>Tue, 24 Dec 2019 14:46:20 -0800</pubDate>
+      <guid>https://thanospol.github.io/project/fvc/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;FVC is suitable for the analysis of incandecence and luminescence in arbitrary geometries, including inhomogeneous dielectric bodies with temperature gradients or spatially varying permittivities&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The code uses time dependence exp(iωt)!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/thanospol/fvc&#34;&gt;Source code&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>MARIE</title>
       <link>https://thanospol.github.io/project/marie/</link>
       <pubDate>Tue, 24 Dec 2019 14:46:20 -0800</pubDate>
       <guid>https://thanospol.github.io/project/marie/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/thanospol/MARIE&#34;&gt;Source code&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

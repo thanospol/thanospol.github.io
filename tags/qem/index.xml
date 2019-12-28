@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>QEM | Thanos Polimeridis</title>
+    <link>https://thanospol.github.io/tags/qem/</link>
+      <atom:link href="https://thanospol.github.io/tags/qem/index.xml" rel="self" type="application/rss+xml" />
+    <description>QEM</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Polimeridis2020</copyright><lastBuildDate>Tue, 24 Dec 2019 14:46:20 -0800</lastBuildDate>
+    <image>
+      <url>https://thanospol.github.io/img/icon-192.png</url>
+      <title>QEM</title>
+      <link>https://thanospol.github.io/tags/qem/</link>
+    </image>
+    
+    <item>
+      <title>FVC</title>
+      <link>https://thanospol.github.io/project/fvc/</link>
+      <pubDate>Tue, 24 Dec 2019 14:46:20 -0800</pubDate>
+      <guid>https://thanospol.github.io/project/fvc/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;FVC is suitable for the analysis of incandecence and luminescence in arbitrary geometries, including inhomogeneous dielectric bodies with temperature gradients or spatially varying permittivities&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The code uses time dependence exp(iωt)!&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/thanospol/fvc&#34;&gt;Source code&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

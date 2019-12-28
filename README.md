@@ -1,1 +1,0 @@
-# thanospol.github.io
