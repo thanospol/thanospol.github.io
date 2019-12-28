@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>QEM | Thanos Polimeridis</title>
-    <link>https://thanospol.github.io/tags/qem/</link>
-      <atom:link href="https://thanospol.github.io/tags/qem/index.xml" rel="self" type="application/rss+xml" />
-    <description>QEM</description>
+    <title>Weiling Jin | Thanos Polimeridis</title>
+    <link>https://thanospol.github.io/authors/weiling-jin/</link>
+      <atom:link href="https://thanospol.github.io/authors/weiling-jin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weiling Jin</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Polimeridis2020</copyright><lastBuildDate>Tue, 24 Dec 2019 14:46:20 -0800</lastBuildDate>
     <image>
       <url>https://thanospol.github.io/img/icon-192.png</url>
-      <title>QEM</title>
-      <link>https://thanospol.github.io/tags/qem/</link>
+      <title>Weiling Jin</title>
+      <link>https://thanospol.github.io/authors/weiling-jin/</link>
     </image>
     
     <item>

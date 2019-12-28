@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>EM | Thanos Polimeridis</title>
-    <link>https://thanospol.github.io/tags/em/</link>
-      <atom:link href="https://thanospol.github.io/tags/em/index.xml" rel="self" type="application/rss+xml" />
-    <description>EM</description>
+    <title>Mikhail Litsarev | Thanos Polimeridis</title>
+    <link>https://thanospol.github.io/authors/mikhail-litsarev/</link>
+      <atom:link href="https://thanospol.github.io/authors/mikhail-litsarev/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mikhail Litsarev</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Polimeridis2020</copyright><lastBuildDate>Tue, 24 Dec 2019 14:46:20 -0800</lastBuildDate>
     <image>
       <url>https://thanospol.github.io/img/icon-192.png</url>
-      <title>EM</title>
-      <link>https://thanospol.github.io/tags/em/</link>
+      <title>Mikhail Litsarev</title>
+      <link>https://thanospol.github.io/authors/mikhail-litsarev/</link>
     </image>
-    
-    <item>
-      <title>DEMCEM</title>
-      <link>https://thanospol.github.io/project/demcem/</link>
-      <pubDate>Tue, 24 Dec 2019 14:46:20 -0800</pubDate>
-      <guid>https://thanospol.github.io/project/demcem/</guid>
-      <description>&lt;p&gt;Semi-analytical algorithms for the evaluation of singular integrals arising in Galerkin EM surface integral equation formulations over planar triangular tessellations (Matlab and C codes).
-&lt;a href=&#34;https://github.com/thanospol/DEMCEM&#34;&gt;Source code&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>DIRECTFN</title>
@@ -37,15 +27,6 @@
 &lt;li&gt;Spectral convergence to machine precision&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/thanospol/DIRECTFN&#34;&gt;Source code&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MARIE</title>
-      <link>https://thanospol.github.io/project/marie/</link>
-      <pubDate>Tue, 24 Dec 2019 14:46:20 -0800</pubDate>
-      <guid>https://thanospol.github.io/project/marie/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/thanospol/MARIE&#34;&gt;Source code&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
